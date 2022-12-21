@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>jstl_test.jsp</title>
+<title>jstl_test2_core.jsp</title>
 </head>
 <body>
-	<form action="/prac_jsp/prac03/jstl_login.jsp" method="post">
+	<form action="/prac_jsp/prac03/jstl_login2.jsp" method="post">
 		아이디 : <input type="text" name="id"><br>
 		비밀번호 : <input type="password" name="pwd"><br>
 		<button type="submit">전송</button>

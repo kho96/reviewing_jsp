@@ -19,6 +19,6 @@
 	<c:if test="${!empty id and !empty pwd }">
 		<h1>${id}님 접속 환영합니다.</h1>
 	</c:if>
-	<a href="/prac_jsp/prac03/jstl_test1.jsp">돌아가기</a>
+	<a href="/prac_jsp/prac03/jstl_test1_core.jsp">돌아가기</a>
 </body>
 </html>

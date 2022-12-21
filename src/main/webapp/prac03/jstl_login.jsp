@@ -25,6 +25,6 @@
 			<h1>로그인 실패</h1>
 		</c:otherwise>
 	</c:choose>
-	<a href="/prac_jsp/prac03/jstl_test.jsp">돌아가기</a>
+	<a href="/prac_jsp/prac03/jstl_test_core.jsp">돌아가기</a>
 </body>
 </html>
