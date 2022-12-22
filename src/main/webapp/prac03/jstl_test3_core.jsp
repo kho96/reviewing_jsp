@@ -43,7 +43,7 @@
 			☆${item}<br>
 		</c:forTokens>
 	</p>
-	<!-- c:import 는 액션태그 include와 같은역할이지만, c태그 import는 다른 웹 어플리케이션도 가져올 수 있다. -->
+	<!-- c:import 는 디렉티브 태그나 액션태그의 include와 같은역할이지만, c태그 import는 다른 웹 어플리케이션도 가져올 수 있다. -->
 	<!-- include와 달리 다른 프로젝트의 파일도 들고 올 수 있다. -->
 	<c:import url="image.jsp"/><br>
 	
